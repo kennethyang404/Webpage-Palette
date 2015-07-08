@@ -13,6 +13,7 @@ Built for fun in two days.
 # Thanks
 
 Lokesh Dhakar - For creating Color Thief
+
 Peter Coles - For making full-page screen captures
 
 # License
