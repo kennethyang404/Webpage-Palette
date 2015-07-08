@@ -10,5 +10,10 @@ Built for fun in two days.
 # Example
 ![Palette for apple.com](http://i.imgur.com/ief3Fzy.jpg "Palette for apple.com")
 
+# Thanks
+
+Lokesh Dhakar - For creating Color Thief
+Peter Coles - For making full-page screen captures
+
 # License
 MIT
