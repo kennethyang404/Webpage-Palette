@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8>
+        <title>Full page screen catpure</title>
+        <script src="jquery-2.1.4.min.js"></script>
+        <script src="color-thief.js"></script>
+        <script src="palette.js"></script>
+        <link rel="stylesheet" type="text/css" href="popup.css">
+    </head>
+    <body>
+        <div id="wrap">
+            <div id="loading">
+                <div class="loader"></div>
+            </div>
+            <div id="invalid">
+                Full Page Screen Capture cannot be run on this page
+                because of Google Chrome Web Store policies. Try
+                another page on the web!
+            </div>
+            <div id="uh-oh">
+                Uh oh, something went wrong! Try reloading the page
+                and running this again. If the problem persists,
+                please report the error in the and please include
+                the URL you tried it on and the version of Chrome.
+            </div>
+            <div id="palette">
+                <div id="colors-container">
+                </div>
+                <div id="hint">Click Colors to Copy</div>
+            </div>
+        </div>
+        <script src="popup.js"></script>
+    </body>
+</html>
