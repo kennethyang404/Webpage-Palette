@@ -2,6 +2,7 @@
 ![icon](http://i.imgur.com/x2sHA5Q.png "icon for Webpage-Palette")
 
 A chrome extension to extract a **palette** from current webpage!
+
 Built for fun in two days.
 
 [Check it on Chrome Web Store](https://chrome.google.com/webstore/detail/webpage-palette/mijaclaafpfelglilelknpmoknkbdaca)
